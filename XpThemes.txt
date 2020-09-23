@@ -1,0 +1,16 @@
+  ** Terms of Use **
+  ------------------
+
+ You may freely distribute the file XpThemes.tlb
+ and the ThemeTest sample project.
+ You're free to use the XpThemes Type Library in
+ your applications and distribute it with
+ the source code of your applications.
+ However, you may not claim that you've written
+ the XpThemes Type Library or the ThemeTest Project.
+
+ For questions, contact us at KPDTeam@allapi.net
+
+ For more information about the WindowsXP Theme
+ API, visit MSDN Library at the following URL:
+  http://msdn.microsoft.com/library/
